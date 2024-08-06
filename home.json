@@ -1,0 +1,41 @@
+{
+    "results": 
+    [
+        {
+            "hits": 
+            [
+                {
+                    "productId": "",
+                    "productURL": "",
+                    "productName": "",
+                    "price": "",
+                    "media": 
+                    {
+                        "images": 
+                        [
+                            "x/s/2/xs271_1",
+                            "x/s/2/xs271_2",
+                            "x/s/2/xs271_3",
+                            "x/s/2/xs271_4"
+                        ]
+                    
+                    },
+                    "inStock": true,
+                    "brand": "",
+                    "sticker":
+                    {
+						"label": "20% Off",
+						"color": "red"
+					},
+                    "priceRange": 
+                    {
+							"min": 167.2,
+							"max": 167.2,
+							"wasMin": 209,
+							"wasMax": 209
+					}
+                }
+            ]
+        }
+    ]
+}
