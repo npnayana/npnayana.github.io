@@ -1,50 +1,24 @@
 {
-    "productId": "1000217113",
-    "productUrl": "",
+    "productID": "1000217113",
+    "productURL": "",
     "productName": "SKECHERS Womens I-Conik Trainers Light",
-    "brand": "Dunelm",
-    "type": "Armchairs",
+    "price": 24.3,
+    "rating": {
+        "averageRating": 4.1,
+        "totalCount": 62
+    },
+    "media": {
+        "image": [
+            "x/s/8/xs835_1",
+            "x/s/8/xs835_2",
+            "x/s/8/xs835_3",
+            "x/s/8/xs835_4",
+            "x/s/8/xs835_5"
+        ]
+    },
     "sticker": {
         "label": "Quick Delivery",
         "color": "dunelmGreen"
-    },
-    "skus": [{
-        "id": "1000217113",
-        "inStock": false,
-		"media": {
-			"image": [
-				"x/s/8/xs835_1",
-				"x/s/8/xs835_2",
-				"x/s/8/xs835_3",
-				"x/s/8/xs835_4",
-				"x/s/8/xs835_5"
-			],
-		},
-        "price": {
-            "now": 24.3,
-            "was": null,
-            "history": []
-        },
-        "rating": {
-            "averageRating": 4.1,
-            "totalCount": 62
-        },
-        "sampleSkus": [],
-        "colourGroup": "Pink",
-        "definingAttributes": {
-            "colour": "Blush Velvet"
-        },
-        "isReturnable": true,
-        "name": "SKECHERS Womens I-Conik Trainers Light",
-        "isConsciousChoice": false
-    }],
-    "ranges": {
-        "price": {
-            "min": 0,
-            "max": 0,
-            "wasMin": 0,
-            "wasMax": 0
-        }
     },
     "description": {
         "html": "<ul><li>Leather and synthetic upper.</li><li>Textile lining.</li><li>Padded ankle and tongue.</li><li>Lace fastening.</li><li>Full length memory foam cushioned insole.</li></ul><p>SKECHERS low profile lace fastening trainers with a chunky silhouette. Make a comfort statement to be remembered wearing Skechers I-Conik. This lace-up fashion style features a layered leather and mesh upper with synthetic trim and die-cut memory foam.</p>",
@@ -71,8 +45,5 @@
     }, {
         "property": "Returns",
         "value": "We have a no quibble 28 day returns policy. We hope you love your items, but if you're not happy for any reason you can return them to us within 28 days of receipt of the parcel. You can return your items by using a pre-paid Evri (formerly Hermes) returns label. Alternatively, view the MandM Returns page to find out more on how to return and see how easy it is."
-    }],
-    "options": {
-        "colour": "Blush Velvet"
-    }
+    }]
 }
