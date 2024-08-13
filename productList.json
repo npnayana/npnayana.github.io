@@ -1,0 +1,153 @@
+{
+	"results": [
+		{
+			"hits": [
+				{
+					"productId": "1000110905",
+					"productUrl": "mito-double-futon-1000110905",
+                    "productName": "SKECHERS Mens GOwalk Max Effort Trainers Black/​Black",
+					"price": {
+						"priceTaxed": 34,
+						"wasNowPriceTaxed": 64
+					},
+					"media": {
+						"image": [
+							"x/s/2/xs271_1",
+							"x/s/2/xs271_2",
+							"x/s/2/xs271_3",
+							"x/s/2/xs271_4"
+						]
+					},
+					"sticker": {
+						"label": "20% Off",
+						"color": "red"
+					}
+				},
+				{
+					"productId": "1000201698",
+					"productUrl": "skye-slub-faux-linen-2-seater-sofa-1000201698",
+                    "productName": "Boys Reebok Royal Prime 2.0 2V Trainers Footwear White/​Black/​White/​Clacob",
+					"price": {
+						"priceTaxed": 7,
+						"wasNowPriceTaxed": 27
+					},
+					"media": {
+						"image": [
+							"r/h/3/rh31139_1",
+							"r/h/3/rh31139_2",
+							"r/h/3/rh31139_3",
+							"r/h/3/rh31139_4",
+							"r/h/3/rh31139_5"
+						]
+					},
+					"sticker": {
+						"label": "50% Off - Clearance",
+						"color": "red"
+					}
+				},
+				{
+					"productId": "1000197920",
+					"productUrl": "zoe-velvet-3-seater-sofa-bed-1000197920",
+                    "productName": "Mens Elation Co-Ord Sky Blue",
+					"price": {
+						"priceTaxed": 19,
+						"wasNowPriceTaxed": 64
+					},
+					"media": {
+						"image": [
+							"a/2/3/a230106_1",
+							"a/2/3/a230106_2",
+							"a/2/3/a230106_3"
+						]
+					},
+					"sticker": {
+						"label": "Offer",
+						"color": "red"
+					}
+				},
+				{
+					"productId": "1000217113",
+					"productUrl": "zoe-faux-leather-right-hand-corner-sofa-1000189755",
+                    "productName": "SKECHERS Womens I-Conik Trainers Light",
+					"price": {
+						"priceTaxed": 24,
+						"wasNowPriceTaxed": 64
+					},
+					"media": {
+						"image": [
+							"x/s/8/xs835_1",
+							"x/s/8/xs835_2",
+							"x/s/8/xs835_3",
+							"x/s/8/xs835_4",
+							"x/s/8/xs835_5"
+						]
+					},
+					"sticker": {
+						"label": "Offer",
+						"color": "red"
+					}
+				},
+				{
+					"productId": "1000197756",
+					"productUrl": "martha-vintage-velvet-3-seater-sofa-1000197756",
+                    "productName": "Mens Joseph Five Pack T-Shirts Navy/​White/​Grey/​Khaki/​Black",
+					"price": {
+						"priceTaxed": 27,
+						"wasNowPriceTaxed": 74
+					},
+					"media": {
+						"image": [
+							"j/j/3/jj30668_1"
+						]
+					},	
+					"sticker": {
+						"label": "20% Off",
+						"color": "red"
+					}
+				},
+				{
+					"productId": "1000211547",
+					"productUrl": "luis-soft-chenille-clic-clac-sofa-bed-1000211547",
+                    "productName":  "Womens London Edition Impact Printed 3 Inch Running Shorts Navy",
+					"price": {
+						"priceTaxed": 24,
+						"wasNowPriceTaxed": 30
+					},
+					"media": {
+						"image": [
+							"n/b/3/nb31205_1",
+							"n/b/3/nb31205_2",
+							"n/b/3/nb31205_3",
+							"n/b/3/nb31205_4"
+						]
+					},
+					"sticker": {
+						"label": "Offer",
+						"color": "red"
+					}
+				},
+				{
+					"productId": "1000190008",
+					"productUrl": "beatrice-velvet-3-seater-sofa-bed-1000190008",
+                    "productName": "Mens Elation Co-Ord Pink",
+					"price": {
+						"priceTaxed": 19,
+						"wasNowPriceTaxed": 64
+					},
+					"media": {
+						"image": [
+							"a/2/3/a230105_1",
+							"a/2/3/a230105_2",
+							"a/2/3/a230105_4"
+						]
+					},
+					"sticker": {
+						"label": "Quick Delivery",
+						"color": "dunelmGreen"
+					}
+				}
+			]
+		}
+	]
+}
+
