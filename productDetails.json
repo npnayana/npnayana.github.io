@@ -18,11 +18,11 @@
     },
     "sticker": {
         "label": "Quick Delivery",
-        "color": "dunelmGreen"
+        "color": "green"
     },
     "description": {
-        "html": "<ul><li>Leather and synthetic upper.</li><li>Textile lining.</li><li>Padded ankle and tongue.</li><li>Lace fastening.</li><li>Full length memory foam cushioned insole.</li></ul><p>SKECHERS low profile lace fastening trainers with a chunky silhouette. Make a comfort statement to be remembered wearing Skechers I-Conik. This lace-up fashion style features a layered leather and mesh upper with synthetic trim and die-cut memory foam.</p>",
-        "formatted": "\n\n* Leather and synthetic upper.\n* Textile lining.\n* Padded ankle and tongue.\n* Lace fastening.\n* SKECHERS low profile lace fastening trainers with a chunky silhouette. Make a comfort statement to be remembered wearing Skechers I-Conik. This lace-up fashion style features a layered leather and mesh upper with synthetic trim and die-cut memory foam."
+        "html": "<ul><li>Leather and synthetic upper.</li><li>Textile lining.</li><li>Padded ankle.</li><li>Lace fastening.</li><li>Full length memory foam cushioned insole.</li></ul><p>SKECHERS low profile lace fastening trainers with a chunky silhouette. Make a comfort statement to be remembered wearing Skechers I-Conik. This lace-up fashion style features a layered leather and mesh upper with synthetic trim and die-cut memory foam.</p>",
+        "formatted": "\n\n* Leather and synthetic upper.\n* Textile lining.\n* Padded ankle.\n* Lace fastening.\n* SKECHERS low profile lace fastening trainers with a chunky silhouette. Make a comfort statement to be remembered wearing Skechers I-Conik. This lace-up fashion style features a layered leather and mesh upper with synthetic trim and die-cut memory foam."
     },
     "features": [{
         "property": "Colour",
